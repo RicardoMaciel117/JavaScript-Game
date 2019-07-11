@@ -1,0 +1,6 @@
+
+//	*** Constructor *** --->
+var limiteSuelo;
+
+
+//	<---
